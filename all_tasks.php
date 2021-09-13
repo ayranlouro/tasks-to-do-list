@@ -23,9 +23,9 @@
 			<div class="row">
 				<div class="col-sm-3 menu">
 					<ul class="list-group">
-						<li class="list-group-item"><a href="index.php">Tarefas pendentes</a></li>
-						<li class="list-group-item"><a href="new_task.php">Nova tarefa</a></li>
-						<li class="list-group-item active"><a href="#">Todas tarefas</a></li>
+						<li class="list-group-item"><a href="index.php">Tasks Peding</a></li>
+						<li class="list-group-item"><a href="new_task.php">New Task</a></li>
+						<li class="list-group-item active"><a href="#">All Tasks</a></li>
 					</ul>
 				</div>
 

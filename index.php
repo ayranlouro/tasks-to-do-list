@@ -23,7 +23,7 @@
 			<div class="row">
 				<div class="col-md-3 menu">
 					<ul class="list-group">
-						<li class="list-group-item active"><a href="#">Tasks</a></li>
+						<li class="list-group-item active"><a href="#">Tasks Pending</a></li>
 						<li class="list-group-item"><a href="new_task.php">New Task</a></li>
 						<li class="list-group-item"><a href="all_tasks.php">All Tasks</a></li>
 					</ul>
